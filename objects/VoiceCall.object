@@ -175,6 +175,11 @@
         <label>MyVoiceCalls</label>
     </listViews>
     <listViews>
+        <fullName>My_VoiceCalls</fullName>
+        <filterScope>Mine</filterScope>
+        <label>MyVoiceCalls</label>
+    </listViews>
+    <listViews>
         <fullName>TestGroup_VoiceCall</fullName>
         <filterScope>Queue</filterScope>
         <label>TestGroup</label>
